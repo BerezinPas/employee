@@ -1,0 +1,16 @@
+1 Kirill
+Nikiforov
+employee
+2 Viktor
+Naftaev
+manager
+24
+3 Alexander
+Gubenko
+fink
+bla bla
+4 Misha
+Romashev
+high fink
+45
+hello world!
